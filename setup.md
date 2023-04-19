@@ -19,3 +19,9 @@ add to globals.css
 @tailwind components;
 @tailwind utilities;
 ```
+
+create color theme:
+
+`npm i next-themes`
+`npm i react-icons`
+`npm i sharp` ?????
